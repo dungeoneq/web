@@ -12,8 +12,6 @@ Learn how to join DungeonEQ.
 
 ## Downloading the Game
 
-<i class="fas fa-fw fa-tachometer-alt"></i>
-
 Use the [DungeonEQ Launcher](https://github.com/dungeoneq/launcheq/releases/download/latest/dungeoneq.exe) to download the game. This will automatically download the game in it's entirety and patch it.
 
 Place the launcher in a folder where you want to install EverQuest. It is recommended to place it in a folder such as C:\Games\DungeonEQ.
