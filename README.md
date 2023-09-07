@@ -1,2 +1,3 @@
-# web
-Website for DungeonEQ
+# DungeonEQ Website
+
+Code for https://dungeoneq.com
