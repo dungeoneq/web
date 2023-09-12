@@ -12,13 +12,17 @@ Learn how to join DungeonEQ.
 
 ## Downloading the Game
 
-Use the [DungeonEQ Launcher](https://github.com/dungeoneq/launcheq/releases/download/latest/dungeoneq.exe) to download the game. This will automatically download the game in it's entirety and patch it.
+Use the [DungeonEQ Launcher](https://github.com/dungeoneq/launcheq/releases/latest/download/dungeoneq.exe) to download the game. This will automatically download the game in it's entirety and patch it.
 
 Place the launcher in a folder where you want to install EverQuest. It is recommended to place it in a folder such as C:\Games\DungeonEQ.
 
+Double click dungeoneq.exe. It'll auto patch and you're good to go!
+
+### Advanced Information About the Launcher
+
 On first start, the launcher will create a subfolder called `everquest_rof2`. If you have a steam copy of EverQuest ROF2 or a copy from other means already, you can save bandwidth by cancelling the launcher, and copying the contents of that folder into the `everquest_rof2` folder created by the launcher.
 
-After the everquest_rof2 contents are populated, they are copied to the same folder, but with the name `everquest`. This is the folder that the game will run from.
+After the everquest_rof2 contents are populated, they are copied to the same folder as the launcher.
 
 After the copy, the launcher will patch custom files for Dungeon EQ.
 
