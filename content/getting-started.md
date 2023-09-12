@@ -20,20 +20,23 @@ Double click dungeoneq.exe. It'll auto patch and you're good to go!
 
 ### Advanced Information About the Launcher
 
-On first start, the launcher will create a subfolder called `everquest_rof2`. If you have a steam copy of EverQuest ROF2 or a copy from other means already, you can save bandwidth by cancelling the launcher, and copying the contents of that folder into the `everquest_rof2` folder created by the launcher.
+On first start, the launcher will create a subfolder called `everquest_rof2`. If you have a steam copy of EverQuest ROF2 or a copy from other means already, you can save bandwidth by cancelling the launcher, and copying your existing copy into the `everquest_rof2` folder created by the launcher (Alternatively, you can keep a copy of `everquest_rof2` one folder up from the launcher).
 
-After the everquest_rof2 contents are populated, they are copied to the same folder as the launcher.
+After the everquest_rof2 contents are either downloaded or detected, they will copied to the same folder as the launcher.
 
-After the copy, the launcher will patch custom files for Dungeon EQ.
+After the copy is complete, the launcher will patch custom files for Dungeon EQ.
 
-After the patch, the launcher will automatically start the game.
+After the patch is complete, the launcher will automatically start the game.
 
-In future runs, you can simply double click eqgame.exe (no patchme required) or use dungeoneq.exe to start the game. Keep in mind dungeoneq.exe is going to check for patches each run, so depending on your preference, you may want to use eqgame.exe instead.
+In future runs, you can simply double click eqgame.exe (no patchme required) or use dungeoneq.exe to start the game. If a new patch is released, be sure to re-run dungeoneq.exe if you opt to use eqgame.exe instead, so files are patched and up to date.
 
 If you have any issues during the download process, visit the [Troubleshooting](#troubleshooting-the-patcher) section.
 
-
 ## Creating an Account
+
+DungeonEQ uses the standard eqemu registration process. If you've logged into any other EQEmu server, you can use the same login information.
+
+For those who haven't, this section covers the steps:
 
 First, create a forum account by visiting [EQEMU Register Link](http://www.eqemulator.org/forums/register.php) if you haven't already.
 
